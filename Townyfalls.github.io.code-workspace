@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "pokemon-essentials",
+			"path": "../Pokemon/pokemon-essentials"
+		}
+	],
+	"settings": {}
+}
