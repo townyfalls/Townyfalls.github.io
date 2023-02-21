@@ -1,0 +1,151 @@
+@import url(https://fonts.googleapis.com/css?family=Audiowide);
+
+* {
+  border-sizing:border-box;
+}
+h1{
+  color:#FFBB00;
+  font-family:audiowide;
+  width:25%;
+  text-shadow: 0.1em 0.1em #666666;
+  padding-left:1em;
+  display:none;
+}
+#giftique{
+  color:#FFBB00;
+  font-family:audiowide;
+  font-size:1.1em;
+  font-weight:bolder;
+}
+p, h2, h4, h6, li, a{
+  color:#FFBB00;
+  font-family:courier;
+  text-align:center;
+}
+p{
+  text-align:justify;
+}
+h2{
+  text-align:center;
+  font-size:2em;
+  margin-top:2.2em;
+  padding-top:1em;
+  font-family:audiowide;
+  text-shadow: 0.1em 0.1em #7a7a7a;
+}
+body{
+  background-color:#7a7a7a;
+}
+nav ul{
+  margin:0;
+  padding:0;
+  list-style-type:none;
+}
+nav ul li{
+  float:left;
+  width:20%;
+  text-align:center;
+  padding:1em;
+  box-sizing:border-box;
+  text-shadow: 0.1em 0.1em #666666;
+  font-size: 1.2em;
+}
+nav ul li:hover{
+  background-color:rgba(102,102,102,0.8);
+}
+#top{
+  position:fixed;
+  width:100%;
+  background-color:rgba(102,102,102,0.5);
+}
+.center{
+  text-align:center;
+}
+a{
+  text-decoration:none;
+}
+footer{
+  text-align:center;
+  font-family:courier;
+  color:#FFBB00;
+  font-size:0.7em;
+  background-color:#666666;
+  margin-top:1em;
+}
+img{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+#main{
+  padding-left:15%;
+  padding-right:15%;
+}
+#title{
+  border-sizing:border-box;
+  background-color:#666666;
+  padding-bottom:1em;
+  margin-bottom:1em;
+}
+#noth{
+  font-size:0.0000000000000001em;
+}
+#bigpart{
+  border-sizing:border-box;
+  background-color:#666666;
+  padding-top:1em;
+  padding-right:2em;
+  padding-left:2em;
+}
+.box{
+  display:inline;
+  padding-top:1em;
+  padding-bottom:1em;
+  border-sizing:border-box;
+  width:24.6%;
+}
+#image-slide {
+  margin: 10em auto;
+  width 30%;
+}
+#navigation {
+  margin 5px 0 0 0;
+  text-align: center;
+  x-index: 1em;
+}
+#navigation a {
+  text-declaration: none;
+  background: #000000;
+  padding-right:1em;
+  padding-left:1em;
+  display: inline-block;
+  margin-top:1em;
+  border-radius:1em;
+}
+#navigation a:hover {
+  background: #444444;
+}
+#slides{
+  overflow:hidden;
+  height:375px;
+  background-color:#444444;
+  margin-right:15em;
+  margin-left:15em;
+}
+#feet{
+  width:10em;
+  display:none;
+}
+#jsbutton{
+  height:1em;
+  font-size:0.5em;
+  width:1em;
+}
+#jsbutton2{
+  height:1em;
+  font-size:0.5em;
+  width:1em;
+}
+.img{
+  height:375px;
+}
